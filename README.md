@@ -1,2 +1,4 @@
 # prometheus
-# grafana+ prometheus+php 监控
+```php
+grafana+ prometheus+php 监控
+```
